@@ -3,6 +3,8 @@
 #include <math.h>
 #include <stdlib.h>
 
+// enkelt program för att sortera en array med integers
+
 void printarray(int* input, int* arraylength);
 void swap(int input[], int i);
 int mediancalc(int* len);
